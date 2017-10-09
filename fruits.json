@@ -1,0 +1,5 @@
+[
+    { "Id": 1, "Nom": "Pomme", "Couleur": "rouge", "Peremption": "2015-08-25T07:00:00.000Z" },
+    { "Id": 2, "Nom": "Poire", "Couleur": "verte", "Peremption": "2015-08-25T07:00:00.000Z" },
+    { "Id": 3, "Nom": "Prune", "Couleur": "violette", "Peremption": "2015-08-25T07:00:00.000Z" } 
+]

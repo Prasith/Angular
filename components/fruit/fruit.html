@@ -1,0 +1,6 @@
+<ul>
+ <li ng-repeat="fruit in fruits | orderBy : 'Nom'">
+    <fruit-directive></fruit-directive>
+    <button ng-click="ajouterFruitAuPanier(fruit)">Ajouter le fruit au panier</button>
+ </li>
+</ul>
